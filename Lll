@@ -1,0 +1,4 @@
+   &lt;iframe src=<span style="color: #006080;">"http://www.youtube.com/subscribe_widget?p=<span style="color: #f00;">XYZ</span>"</span> 
+       style=<span style="color: #006080;">"overflow: hidden; height: 105px; width: 300px; border: 0;"</span> 
+       scrolling=<span style="color: #006080;">"no"</span> frameBorder=<span style="color: #006080;">"0"</span>&gt;
+    &lt;/iframe&gt;
